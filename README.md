@@ -1,7 +1,7 @@
 # 📊 Entry Signal Scanner
 
-Jack Strategy Scanner
-View Signals in signal_results.json
+- Jack Strategy Scanner
+- View Signals in [signal_results.json]
 
 ---
 
